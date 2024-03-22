@@ -31,8 +31,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=white&text_color=white)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa621&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=white&text_color=white)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushboo8252&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white)
