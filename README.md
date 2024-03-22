@@ -31,8 +31,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=white&text_color=white)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=black&text_color=black)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=white&text_color=white)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khushboo8252&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=black&text_color=black)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=khushboo8252&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushboo8252&theme=transparent&hide_border=true&title_color=black&text_color=black&sideNums=black&sideLabels=black&ring=black&fire=black&currStreakLabel=white&currStreakNum=black)
