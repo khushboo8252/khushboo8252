@@ -9,7 +9,7 @@
 
 📧 Email - khushbooranjan8252@gmail.com
 
-💼 Portfolio - (https://65d40d3a1c6e7c66b1333d6b--storied-dusk-37baf4.netlify.app/)
+💼 Portfolio - (https://660cfb2e7f6d2797022c36cf--strong-dieffenbachia-0d1ebb.netlify.app/)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
