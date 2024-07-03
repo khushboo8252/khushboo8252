@@ -9,7 +9,7 @@
 
 📧 Email - khushbooranjan8252@gmail.com
 
-💼 Portfolio - (https://6684411d049b62c6b42015cf--imaginative-rolypoly-1ca3f6.netlify.app/)
+💼 Portfolio - (https://imaginative-rolypoly-1ca3f6.netlify.app/)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
