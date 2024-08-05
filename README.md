@@ -9,7 +9,8 @@
 
 📧 Email - khushbooranjan8252@gmail.com
 
-💼 Portfolio - (https://portfolio-h236dxusw-khushboo8252s-projects.vercel.app/)
+💼 Portfolio - (portfolio-rzq3.vercel.app/)
+
     LinkedIn - (www.linkedin.com/in//khushboo-kumari-23814225b/)
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
