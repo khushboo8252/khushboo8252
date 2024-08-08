@@ -9,7 +9,7 @@
 
 📧 Email - khushbooranjan8252@gmail.com
 
-🌐 Portfolio - (https://portfolio-rzq3.vercel.app/)
+🌐 Portfolio - (https://portfolio-github-rcvy.vercel.app/)
 
 🔗 LinkedIn - (https://www.linkedin.com/in/khushboo-kumari-23814225b/)
 
