@@ -9,7 +9,7 @@
 
 📧 Email - khushbooranjan8252@gmail.com
 
-🌐 Portfolio - (https://khushbookumari.netlify.app/)
+🌐 Portfolio - (https://joyful-pavlova-a3df8a.netlify.app/)
 
 🔗 LinkedIn - (https://www.linkedin.com/in/khushboo-kumari-23814225b/)
 
