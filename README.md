@@ -5,7 +5,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack.
 
-🚀 I have learned couple of CSS libraries like Chakra UI & styled-components.
+🚀 I have learned couple of CSS libraries like Tailwind CSS & styled-components.
 
 📧 Email - khushbooranjan8252@gmail.com
 
